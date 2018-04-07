@@ -1,0 +1,20 @@
+
+¿Alguna vez has pensado en pagar tramites y servicios del gobierno de una forma diferente
+sin necesidad de una tarjeta de debito o credito?
+
+Nosostros hicimos una pagina que utiliza las guias de estilo de las paginas de gob.mx para que vean la
+rápidez con la que puede implementarse el proyecto. 
+
+Nuestro sistema permite adaptarse a la página web del gobierno agregando métodos de pago
+con tecnología de vanguardia.
+
+Tether es la criptomeneda perfecta para el gobierno, por su baja volatilidad además 
+un tether siempre valdrá lo mismo que un dolar. Tether tiene seguridad indiscutible.
+
+Gocoin será el intermediario, el gateway de pagos donde se procesarán las transferencias, pero el gobierno siempre 
+tendrá su cartera de Tether en sus servidores. El gobierno será el dueño de su criptomonedas.
+
+
+------------------------
+nosostros hicimos una pagina que utiliza las guias de estilo de las paginas de gob.mx para que vean la
+rápidez con la que puede implementarse el proyecto.  
